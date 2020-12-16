@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi, I'm Emmanuel 👋
+---
 
-<!--
-**Aquilaafuadajo/aquilaafuadajo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Frontend Developer based in Lagos, Nigeria.
 
-Here are some ideas to get you started:
+- 🏢 I'm currently Frontend developer
+- ⚙️ I use daily: `React`, `Stencil`, `Javascript`, `Html`, `CSS`, `SCSS`
+- 🌱 Learning more about and studying: **React, Javascript and other Frontend technologies**
+- 📫 Reach me asap: <a href="https://twitter.com/_developing_dev/">Twitter</a> or aquilaafuadajo@gmail.com
+- 💜 Interests: **Open source**
+- 😄 Passionate about accessibility and committed to a web that works for everyone
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Find me around the web 🌎:
+- 💼 <a href="https://www.linkedin.com/in/emmanuel-afuadajo/">LinkedIn</a>
+- 🌐 <a href="https://aquils.herokuapp.com">Portfolio</a>
+- 🐦 <a href="https://twitter.com/_developing_dev/">Twitter</a>
+
+---
+
+⭐️ From [MillyCodes](https://github.com/aquilaafuadajo)
