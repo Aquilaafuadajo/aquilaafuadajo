@@ -10,7 +10,7 @@
 
 #### Find me around the web 🌎:
 - 💼 <a href="https://www.linkedin.com/in/emmanuel-afuadajo/">LinkedIn</a>
-- 🌐 <a href="https://aquils.herokuapp.com">Portfolio</a>
+- 🌐 <a href="https://aquils.me">Portfolio</a>
 - 🐦 <a href="https://twitter.com/_aquils/">Twitter</a>
 
 ---
