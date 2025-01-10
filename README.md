@@ -5,7 +5,7 @@
 
 - 🏢 I'm a Fullstack developer
 - ⚙️ I use daily: `Typescript`, `React`, `Vue`, `Javascript`, `Nodejs`, `Postgresql`, `MySQL`, `Mongodb`, `Firebase`.
-- 🌱 Learning more about and studying: **Software Engineering**
+- 🌱 Learning more about and studying: **Software and Data Engineering**
 - 📫 Reach me asap: <a href="https://linkedin.com/in/emmanuel-afuadajo/">Linkedin</a> or aquilaafuadajo@gmail.com
 
 #### Find me around the web 🌎:
